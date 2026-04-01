@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Registrationform" parent="Theme.AppCompat.Light.NoActionBar"/>
+</resources>
